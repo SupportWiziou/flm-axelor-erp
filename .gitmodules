@@ -1,0 +1,3 @@
+[submodule "open-suite-webapp"]
+	path = open-suite-webapp
+	url = git@github.com:axelor/open-suite-webapp.git
