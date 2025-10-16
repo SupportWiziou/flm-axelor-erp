@@ -49,7 +49,7 @@ dependencies {
     implementation project(":modules:$dir.name")
   }
   implementation 'com.google.cloud.sql:postgres-socket-factory:1.11.1'
-  implementation 'com.axelor.addons:axelor-studio:3.3.12'
+  api 'com.axelor.addons:axelor-studio:3.3.12'
 }
 
 apply from: 'gradle/style.gradle'
